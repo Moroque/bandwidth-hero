@@ -16,7 +16,7 @@
     "is-image": "^3.0.0",
     "netmask": "^1.0.6",
     "pretty-bytes": "^4.0.2",
-    "react": "^16.8.4",
+    "react": "^16.14.0",
     "react-dom": "^16.13.0",
     "react-router-dom": "^5.0.0",
     "semantic-ui-css": "^2.2.12",
