@@ -23,7 +23,7 @@
     "semantic-ui-react": "^2.0.4"
   },
   "devDependencies": {
-    "@babel/cli": "^7.16.8",
+    "@babel/cli": "^7.17.0",
     "@babel/core": "^7.16.7",
     "@babel/preset-env": "^7.16.7",
     "@babel/preset-flow": "^7.16.7",
